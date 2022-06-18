@@ -21,7 +21,7 @@
 ---
 
 >## Git Streak
-> ![Git Streak](https://github-readme-streak-stats.herokuapp.com/?user=prateekmohanty63s&theme=react)
+> ![Git Streak](https://github-readme-streak-stats.herokuapp.com/?user=prateekmohanty63&theme=react)
 
 ---
 
