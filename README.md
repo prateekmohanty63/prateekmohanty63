@@ -1,4 +1,4 @@
-># Hi there 👋 
+># Hi there, I am Prateek Mohanty. A passionate full stack developer. I am currently learning React and exploring block chain technology.Thank you for visiting my profile 👋 
 
 [![stars](https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=000000&labelColor=blue&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/prateekmohanty63&logoColor=black)](https://github.com/prateekmohanty63?tab=repositories)
 [![followers](https://custom-icon-badges.herokuapp.com/github/followers/prateekmohanty63?color=black&labelColor=blue&style=for-the-badge&logo=person-add&label=Follow&logoColor=black)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fprateekmohanty63)
